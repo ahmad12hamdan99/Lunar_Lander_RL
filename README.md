@@ -13,4 +13,33 @@ We added a rectangle static obstacle in the way of the lander and the lander wil
 
 ## Results 
 ### DQN:
+1. **The Default Lunar Lander Environment**: 
+
+![alt text](videos/DQN/DQN.gif)
+
+2. **Modified Reward**: 
+
+![alt text](videos/DQN/MDQN.gif)
+
+3. **Obstacle Addition**:
+
+![alt text](videos/DQN/DQNob.gif)
+
+---
+
+### DDQN:
+1. **The Default Lunar Lander Environment**: 
+
+![alt text](videos/DDQN/DDQN_basic.gif)
+
+2. **Modified Reward**: 
+
+![alt text](videos/DDQN/DDQN_mod_r.gif)
+
+3. **Obstacle Addition**:
+
+![alt text](videos/DDQN/DDQN_obs.gif)
+
+
+
 
